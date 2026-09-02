@@ -4,6 +4,6 @@ void greet(const char *name){
 }
 int main() {
     printf("Hello, World!\n");
-    greet("Amruta");
+    greet("Ada");
     return 0;
 } 
